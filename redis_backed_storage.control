@@ -1,0 +1,5 @@
+comment = 'redis_backed_storage:  Created by pgrx'
+default_version = '@CARGO_VERSION@'
+module_pathname = '$libdir/redis_backed_storage'
+relocatable = false
+superuser = true
