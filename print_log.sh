@@ -1,0 +1,1 @@
+cat ~/.pgrx/16.log
